@@ -3,7 +3,7 @@ Wingie Enuygun Group Backend Developer Case Study
 
 Installation
 
-git clone https://github.com/cansueraslan/wingie-enuygun.git
+git clone https://github.com/CansuEraslan/wingie-enuygun.git
 
 composer install
 
